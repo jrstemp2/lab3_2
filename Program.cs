@@ -50,11 +50,11 @@ namespace lab3_2
                 else
                 {
                     Console.WriteLine("We do not stcok that item.");
-                    Console.Write("Would you like to add another item? ");
+                    Console.Write("Would you like to add another item? (yes/no)");
                     continue;
                 }
                 
-                Console.Write("Would you like to add another item? ");
+                Console.Write("Would you like to add another item? (yes/no)");
                 
                 goAgain = Console.ReadLine();
                 

@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\JSTEMPOWSKI\\source\\repos\\lab3_2\\lab3_2.csproj",
+      "projectUniqueName": "C:\\Users\\JSTEMPOWSKI\\OneDrive - KNEX\\Desktop\\lab3_2\\lab3_2.csproj",
       "projectName": "lab3_2",
-      "projectPath": "C:\\Users\\JSTEMPOWSKI\\source\\repos\\lab3_2\\lab3_2.csproj",
+      "projectPath": "C:\\Users\\JSTEMPOWSKI\\OneDrive - KNEX\\Desktop\\lab3_2\\lab3_2.csproj",
       "packagesPath": "C:\\Users\\JSTEMPOWSKI\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\JSTEMPOWSKI\\source\\repos\\lab3_2\\obj\\",
+      "outputPath": "C:\\Users\\JSTEMPOWSKI\\OneDrive - KNEX\\Desktop\\lab3_2\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
